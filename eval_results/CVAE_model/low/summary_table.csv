@@ -1,0 +1,10 @@
+Metric,Mean,Std,Min,Max
+Reward [-],-3073.7161,2310.8375,-9856.5211,-22.0657
+Energy Charged [kWh],79.3896,52.3465,1.7131,191.7420
+Energy Discharged [kWh],7.1927,7.3823,0.0000,32.1717
+User Satisfaction [%],0.9016,0.0418,0.8154,0.9921
+Power Violation [kW],2.9263,3.6280,0.0000,19.2460
+Costs [€],-0.0535,0.0373,-0.1317,0.0060
+Tracking Error,11634.1890,9905.9540,371.1209,43424.2702
+Exec. Time [sec/step],0.0176,0.0022,0.0165,0.0311
+Optimality Gap [%],-4944.52,,,
